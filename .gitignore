@@ -1,2 +1,9 @@
 main.py
 confirm.py
+*.java
+test.py
+fake.py
+cred.py
+*.class
+complete.py
+__pycache__
