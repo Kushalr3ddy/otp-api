@@ -7,3 +7,6 @@ cred.py
 *.class
 complete.py
 __pycache__
+data.json
+fast.py
+test.json
